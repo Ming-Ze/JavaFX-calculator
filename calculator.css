@@ -1,0 +1,33 @@
+#one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#zero,#dot,#negative{
+	-fx-background-radius: 5em;
+	-fx-background-color: "khaki";
+	-fx-border-radius: 5em;
+	-fx-border-color: "black";
+	-fx-font-family: "Comisc Sans MS";
+	-fx-font-size: 24;
+	-fx-font-weight: bold;
+}
+
+.root{
+	-fx-background-color: #4F4F4F;
+}
+
+#clearAll,#clearEntry,#backSpace{
+	-fx-background-radius: 5em;
+	-fx-background-color: "pink";
+	-fx-border-radius: 5em;
+	-fx-border-color: "black";
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+#devide,#mutiple,#minus,#plus,#equal{
+	-fx-background-radius: 5em;
+	-fx-background-color: "skyblue";
+	-fx-border-radius: 5em;
+	-fx-border-color: "black";
+	-fx-font-family: "Comic Sans MS";
+	-fx-font-size: 24;
+	-fx-font-weight: bold;
+}
